@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave1", "Opgave1.csproj", "{171C5DC2-63C8-46EE-B257-CBFFE86CEBF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgave1", "Opgave1.csproj", "{171C5DC2-63C8-46EE-B257-CBFFE86CEBF0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave1UnitTset", "..\Opgave1UnitTset\Opgave1UnitTset.csproj", "{49770B42-2A33-4BDB-A96E-AC2931BCC45E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave1UnitTest", "..\Opgave1UnitTest\Opgave1UnitTest.csproj", "{2A8D2DB2-0D23-4696-A719-6453E41DE41E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{49770B42-2A33-4BDB-A96E-AC2931BCC45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49770B42-2A33-4BDB-A96E-AC2931BCC45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49770B42-2A33-4BDB-A96E-AC2931BCC45E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A8D2DB2-0D23-4696-A719-6453E41DE41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8D2DB2-0D23-4696-A719-6453E41DE41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8D2DB2-0D23-4696-A719-6453E41DE41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8D2DB2-0D23-4696-A719-6453E41DE41E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
